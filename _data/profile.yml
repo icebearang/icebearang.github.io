@@ -13,10 +13,10 @@ cv_link: /assets/CV.pdf
 gscholar: FjbK5Z4AAAAJ
 # github: icebearang
 # twitter: 
-wechat_qrcode: wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
+wechat_qrcode: #wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-linkedin: #子昂-刘-74337228b
+# linkedin: 子昂-刘-74337228b
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
