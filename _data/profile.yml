@@ -4,7 +4,7 @@ navbar_name: "Ziang Liu 刘子昂"
 
 positions:
 - logo: /assets/images/badges/01NJU.jpg  # Logo is optional
-  name: B.S., Nanjing University
+  name: B.E., Nanjing University
 - name: 
 
 
@@ -35,7 +35,7 @@ portrait_url: /assets/images/photos/portrait1.jpeg
 education:
 - name: Nanjing University
   logo: /assets/images/badges/01NJU.jpg
-  position: B.S. in New Energy Science and Engineering
+  position: B.E. in New Energy Science and Engineering
   date: Sep. 2021 - Jul. 2025
 
 # experience:
