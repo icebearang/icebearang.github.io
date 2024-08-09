@@ -1,10 +1,10 @@
 primary_name: "Ziang Liu"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Ziang Liu"
 
 positions:
 - logo: /assets/images/badges/PKU_red.png  # Logo is optional
-  name: Position 1 with logo
+  name: B.S., Nanjing University
 - name: Position 2 without logo
 
 
