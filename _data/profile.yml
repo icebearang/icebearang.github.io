@@ -3,19 +3,19 @@ secondary_name: ""
 navbar_name: "Ziang Liu"
 
 positions:
-- logo: /assets/images/badges/PKU_red.png  # Logo is optional
+- logo: /assets/images/badges/01NJU.jpg  # Logo is optional
   name: B.S., Nanjing University
-- name: Position 2 without logo
+- name: 
 
 
 email: "your@email.com"
 # cv_link: link-to-your-cv-file
-gscholar: your_google_scholar_id
-github: your_github_id
-twitter: your_twitter_id
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+gscholar: FjbK5Z4AAAAJ
+# github: icebearang
+# twitter: 
+wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
@@ -29,8 +29,8 @@ short_bio: >-
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
 - name: Peking University
