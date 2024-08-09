@@ -13,10 +13,10 @@ email: "your@email.com"
 gscholar: FjbK5Z4AAAAJ
 # github: icebearang
 # twitter: 
-wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_qrcode: wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: 子昂-刘-74337228b
 # orcid: 0000-0000-0000-0000
 
 short_bio: >-
@@ -33,22 +33,22 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Peking University
+- name: Nanjing University
   logo: /assets/images/badges/PKU_red.png
   position: B.S. in Computer Science
   date: Sep. 2017 - Jul. 2021
 
 # experience:
 # - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
+#   logo: /assets/images/badges/01NJU.jpg
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
 
 awards:
-- name: Award Name 2
+- name: Provincial Merit Student
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Outstanding Student Organization Cadre 
+  date: 2023
+- name: National Scholarship
+  date: 2022
