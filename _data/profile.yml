@@ -13,7 +13,7 @@ cv_link: /assets/CV.pdf
 gscholar: FjbK5Z4AAAAJ
 # github: icebearang
 # twitter: 
-wechat_qrcode: wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
+wechat_qrcode: #wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: ziang-liu-74337228b
