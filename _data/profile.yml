@@ -1,6 +1,6 @@
-primary_name: "Academic"
+primary_name: "Ziang Liu"
 secondary_name: ""
-navbar_name: "Ziang Liu"
+navbar_name: "Academic"
 
 positions:
 - logo: /assets/images/badges/01NJU.jpg  # Logo is optional
@@ -8,12 +8,12 @@ positions:
 - name: 
 
 
-email: "your@email.com"
+email: "icebearang@gmail.com"
 cv_link: /assets/CV.pdf
 gscholar: FjbK5Z4AAAAJ
 # github: icebearang
 # twitter: 
-wechat_qrcode: #wechat id: icebear_is_fearless #/assets/images/etc/wechat.jpg
+wechat_qrcode: /assets/images/etc/QR.jpg
 wechat_prompt: >-
   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 linkedin: ziang-liu-74337228b
