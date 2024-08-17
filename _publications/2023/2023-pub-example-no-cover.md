@@ -1,4 +1,4 @@
----
+'''---
 title:          "Publication without cover image"
 date:           2023-01-21 00:01:00 +0800
 selected:       false
@@ -20,3 +20,4 @@ links:
   Code: https://github.com/luost26/academic-homepage
   Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---
+'''
