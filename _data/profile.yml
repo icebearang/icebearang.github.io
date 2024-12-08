@@ -9,7 +9,7 @@ positions:
 
 
 email: "icebearang@gmail.com"
-cv_link: /assets/CV 2.0.pdf
+cv_link: /assets/CV 3.91.pdf
 gscholar: FjbK5Z4AAAAJ
 # github: icebearang
 # twitter: 
@@ -39,17 +39,17 @@ education:
   position: B.E. in New Energy Science and Engineering
   date: Sep. 2021 - Jul. 2025
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/01NJU.jpg
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+experience:
+- name: Harvard University
+  logo: /assets/images/badges/harvard.jpg
+  position: Research Intern
+  date: Jul. 2024 - Dec. 2024
 
 
 awards:
-- name: Provincial Merit Student
+- name: Dongliang Scholarship (highest honor at Nanjing University)
   date: 2024
-- name: Outstanding Student Organization Cadre 
-  date: 2023
-- name: National Scholarship
+- name: Provincial Merit Student (top 0.067% among 2.62 million college students)
+  date: 2024
+- name: National Scholarship (highest nationwide honor)
   date: 2022
